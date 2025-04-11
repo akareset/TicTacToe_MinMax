@@ -12,4 +12,4 @@ It maximizes its own score (**Max**) and in the next turn it simulates an oppone
 
 This approach ensures that the algorithm always makes the **optimal** move.
 
-![[TicTacToe.gif]]
+![Game Demo](TicTacToe.gif)
